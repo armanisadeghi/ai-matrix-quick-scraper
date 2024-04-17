@@ -77,7 +77,6 @@ class Scraper:
                 logging.error(f"Error during scraping {url}: {e}")
 
     def clean_and_extract_url_details(self, url):
-        from urllib.parse import urlparse
         import tldextract
 
         parsed_url = urlparse(url)
@@ -582,13 +581,13 @@ async def main(url, options, task='scrape', text_file=None):
 
 
 if __name__ == "__main__":
-    url = "https://pypi.org/project/markdown-it-py/"
+    url = "https://www.healthline.com/health/crohns-disease"
     options = ['get_image_links', 'get_main_headers', 'extract_content_by_headers', 'get_tables', 'get_filtered_images']
 
     #cleaned_content = asyncio.run(simple_scrape_single_page(url))
 
 
-    result = asyncio.run(main(url, options, task='scrape', text_file='soup.txt'))
+    result = asyncio.run(main(url, options, task='scrape', text_file='../../soup.txt'))
 
     #clean_data = result['value']['clean_data']
 
