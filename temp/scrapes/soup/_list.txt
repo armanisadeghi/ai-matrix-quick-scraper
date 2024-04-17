@@ -1,3 +1,5 @@
+D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_healthline_com_health_crohns_disease_240417_1358.txt
+D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_healthline_com_health_crohns_disease_240417_1354.txt
 E:\Git\scraper\temp\scrapes\soup\soup_pypi_org_project_markdown_it_py__240418_0253.txt
 E:\Git\scraper\temp\scrapes\soup\soup_pypi_org_project_markdown_it_py__240418_0251.txt
 E:\Git\scraper\temp\scrapes\soup\soup_pypi_org_project_markdown_it_py__240418_0251.txt

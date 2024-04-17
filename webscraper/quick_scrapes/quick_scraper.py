@@ -1,21 +1,20 @@
 import os
 import asyncio
 import aiohttp
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 import re
 import logging
+from urllib.parse import urlparse
 import urllib.parse
-from urllib.parse import urlparse, urlunparse
 import datetime
 from common.utils.my_utils import pretty_print_data
-import uuid
 from pathlib import Path
 from dotenv import load_dotenv
+from parse_sample import ContentExtractor
+from common.utils.my_utils import print_file_link
+
 load_dotenv()
 BASE_DIR = Path(os.getenv("BASE_DIR"))
-from parse_sample import ContentExtractor
-from urllib.parse import urlparse
-from common.utils.my_utils import print_file_link
 
 
 class Scraper:
@@ -78,7 +77,6 @@ class Scraper:
 
     def clean_and_extract_url_details(self, url):
         import tldextract
-
         parsed_url = urlparse(url)
         self.url = parsed_url.scheme + "://" + parsed_url.netloc + parsed_url.path
         extracted = tldextract.extract(self.url)
@@ -189,7 +187,6 @@ class Scraper:
         return clean_data, char_count, title
 
     async def extract_content_by_headers(self):
-        from bs4 import BeautifulSoup, NavigableString, Tag
 
         def is_header(tag):
             return tag.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']
@@ -350,8 +347,9 @@ class Scraper:
 
         return headers_by_tag
 
+
     def extract_domain(self):
-        parsed_uri = urllib.urlparse(self.url)
+        parsed_uri = urlparse(self.url)
         return '{uri.scheme}://{uri.netloc}'.format(uri=parsed_uri)
 
     async def extract_phone_numbers(self):
