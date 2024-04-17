@@ -1,0 +1,236 @@
+{
+    "overview": {
+        "uuid": "3a1aa0e4-b9bd-4193-9b27-14a43107cdb4",
+        "website": "pypi.org",
+        "url": "pypi_org_project_markdown_it_py_",
+        "unique_page_name": "pypi_org_project_markdown_it_py_",
+        "page_title": "no_title"
+    },
+    "tables": {
+        "H3: Hashes for markdown-it-py-3.0.0.tar.gz": [
+            {
+                "pre": "",
+                "table": [
+                    {},
+                    {},
+                    {}
+                ]
+            }
+        ],
+        "H3: Hashes for markdown_it_py-3.0.0-py3-none-any.whl": [
+            {
+                "pre": "",
+                "table": [
+                    {},
+                    {},
+                    {}
+                ]
+            }
+        ]
+    },
+    "lists": {
+        "unassociated": [
+            {
+                "pre": "",
+                "list": [
+                    "Help",
+                    "Sponsors",
+                    "Log in",
+                    "Register"
+                ],
+                "post": ""
+            }
+        ],
+        "H3: Navigation": [
+            {
+                "pre": "",
+                "list": [
+                    "Project description",
+                    "Release history",
+                    "Download files"
+                ],
+                "post": ""
+            }
+        ],
+        "H6: Project links": [
+            {
+                "pre": "",
+                "list": [
+                    "Documentation",
+                    "Homepage"
+                ],
+                "post": "View statistics for this project via Libraries.io, or by using our public dataset on Google BigQuery"
+            },
+            {
+                "pre": "",
+                "list": [
+                    "Documentation",
+                    "Homepage"
+                ],
+                "post": "View statistics for this project via Libraries.io, or by using our public dataset on Google BigQuery"
+            }
+        ],
+        "H6: Classifiers": [
+            {
+                "pre": "",
+                "list": [
+                    "Development Status 5 - Production/Stable",
+                    "5 - Production/Stable",
+                    "Intended Audience Developers",
+                    "Developers",
+                    "License OSI Approved :: MIT License",
+                    "OSI Approved :: MIT License",
+                    "Programming Language Python :: 3 Python :: 3.8 Python :: 3.9 Python :: 3.10 Python :: 3.11 Python :: Implementation :: CPython Python :: Implementation :: PyPy",
+                    "Python :: 3",
+                    "Python :: 3.8",
+                    "Python :: 3.9",
+                    "Python :: 3.10",
+                    "Python :: 3.11",
+                    "Python :: Implementation :: CPython",
+                    "Python :: Implementation :: PyPy",
+                    "Topic Software Development :: Libraries :: Python Modules Text Processing :: Markup",
+                    "Software Development :: Libraries :: Python Modules",
+                    "Text Processing :: Markup"
+                ],
+                "post": ""
+            },
+            {
+                "pre": "",
+                "list": [
+                    "Project description",
+                    "Project details",
+                    "Release history",
+                    "Download files"
+                ],
+                "post": ""
+            },
+            {
+                "pre": "",
+                "list": [
+                    "Development Status 5 - Production/Stable",
+                    "5 - Production/Stable",
+                    "Intended Audience Developers",
+                    "Developers",
+                    "License OSI Approved :: MIT License",
+                    "OSI Approved :: MIT License",
+                    "Programming Language Python :: 3 Python :: 3.8 Python :: 3.9 Python :: 3.10 Python :: 3.11 Python :: Implementation :: CPython Python :: Implementation :: PyPy",
+                    "Python :: 3",
+                    "Python :: 3.8",
+                    "Python :: 3.9",
+                    "Python :: 3.10",
+                    "Python :: 3.11",
+                    "Python :: Implementation :: CPython",
+                    "Python :: Implementation :: PyPy",
+                    "Topic Software Development :: Libraries :: Python Modules Text Processing :: Markup",
+                    "Software Development :: Libraries :: Python Modules",
+                    "Text Processing :: Markup"
+                ],
+                "post": ""
+            }
+        ],
+        "H1: markdown-it-py": [
+            {
+                "pre": "",
+                "list": [
+                    "Follows the CommonMark spec for baseline parsing",
+                    "Configurable syntax: you can add new rules and even replace existing ones.",
+                    "Pluggable: Adds syntax extensions to extend the parser (see the plugin list).",
+                    "High speed (see our benchmarking tests)",
+                    "Safe by default",
+                    "Member of Google's Assured Open Source Software"
+                ],
+                "post": "This is a Python port of markdown-it, and some of its associated plugins. For more details see: https://markdown-it-py.readthedocs.io."
+            },
+            {
+                "pre": "For details on markdown-it itself, see:",
+                "list": [
+                    "The Live demo",
+                    "The markdown-it README"
+                ],
+                "post": "or"
+            }
+        ],
+        "H2: References / Thanks": [
+            {
+                "pre": "Big thanks to the authors of markdown-it:",
+                "list": [
+                    "Alex Kocharin github/rlidwka",
+                    "Vitaly Puzrin github/puzrin"
+                ],
+                "post": "Also John MacFarlane for his work on the CommonMark spec and reference implementations."
+            }
+        ],
+        "H2: Help": [
+            {
+                "pre": "",
+                "list": [
+                    "Installing packages",
+                    "Uploading packages",
+                    "User guide",
+                    "Project name retention",
+                    "FAQs"
+                ],
+                "post": ""
+            }
+        ],
+        "H2: About PyPI": [
+            {
+                "pre": "",
+                "list": [
+                    "PyPI Blog",
+                    "Infrastructure dashboard",
+                    "Statistics",
+                    "Logos & trademarks",
+                    "Our sponsors"
+                ],
+                "post": ""
+            }
+        ],
+        "H2: Contributing to PyPI": [
+            {
+                "pre": "",
+                "list": [
+                    "Bugs and feedback",
+                    "Contribute on GitHub",
+                    "Translate PyPI",
+                    "Sponsor PyPI",
+                    "Development credits"
+                ],
+                "post": ""
+            }
+        ],
+        "H2: Using PyPI": [
+            {
+                "pre": "",
+                "list": [
+                    "Code of conduct",
+                    "Report security issue",
+                    "Privacy policy",
+                    "Terms of use",
+                    "Acceptable Use Policy"
+                ],
+                "post": ""
+            },
+            {
+                "pre": "",
+                "list": [
+                    "English",
+                    "espa ol",
+                    "fran ais",
+                    "",
+                    "portugu s (Brasil)",
+                    "",
+                    "",
+                    "Deutsch",
+                    "( )",
+                    "( )",
+                    "",
+                    "",
+                    "esperanto"
+                ],
+                "post": ""
+            }
+        ]
+    },
+    "ordered_lists": {}
+}

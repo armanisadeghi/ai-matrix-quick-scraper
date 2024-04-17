@@ -1,0 +1,180 @@
+overview
+
+  uuid
+    3a1aa0e4-b9bd-4193-9b27-14a43107cdb4
+
+  website
+    pypi.org
+
+  url
+    pypi_org_project_markdown_it_py_
+
+  unique_page_name
+    pypi_org_project_markdown_it_py_
+
+  page_title
+    no_title
+Title
+  markdown-it-py · PyPI
+H1: markdown-it-py 3.0.0
+  - pip install markdown-it-py Copy PIP instructions
+  - Latest version
+  - Released: Jun 3, 2023
+  - Python port of markdown-it. Markdown parsing, done right!
+H1: markdown-it-py
+  - Markdown parser done right.
+  - {'list': ['Follows the CommonMark spec for baseline parsing', 'Configurable syntax: you can add new rules and even replace existing ones.', 'Pluggable: Adds syntax extensions to extend the parser (see the plugin list).', 'High speed (see our benchmarking tests)', 'Safe by default', "Member of Google's Assured Open Source Software"]}
+  - This is a Python port of markdown-it, and some of its associated plugins. For more details see: https://markdown-it-py.readthedocs.io.
+  - For details on markdown-it itself, see:
+  - {'list': ['The Live demo', 'The markdown-it README']}
+H2: Project description
+H2: Installation
+  - or
+  - or with extras
+H2: Usage
+H2: References / Thanks
+  - Big thanks to the authors of markdown-it:
+  - {'list': ['Alex Kocharin github/rlidwka', 'Vitaly Puzrin github/puzrin']}
+  - Also John MacFarlane for his work on the CommonMark spec and reference implementations.
+H2: Project details
+H2: Release history
+
+Release notifications |
+              RSS feed
+H2: Download files
+  - Download the file for your platform. If you're not sure which to choose, learn more about installing packages.
+H2: Help
+  - {'list': ['Installing packages', 'Uploading packages', 'User guide', 'Project name retention', 'FAQs']}
+H2: About PyPI
+  - {'list': ['PyPI Blog', 'Infrastructure dashboard', 'Statistics', 'Logos & trademarks', 'Our sponsors']}
+H2: Contributing to PyPI
+  - {'list': ['Bugs and feedback', 'Contribute on GitHub', 'Translate PyPI', 'Sponsor PyPI', 'Development credits']}
+H2: Using PyPI
+  - {'list': ['Code of conduct', 'Report security issue', 'Privacy policy', 'Terms of use', 'Acceptable Use Policy']}
+  - Status: all systems operational
+  - Developed and maintained by the Python community, for the Python community. Donate today!
+  - "PyPI", "Python Package Index", and the blocks logos are registered trademarks of the Python Software Foundation.
+  - 2024 Python Software Foundation Site map
+  - {'list': ['English', 'espa ol', 'fran ais', '', 'portugu s (Brasil)', '', '', 'Deutsch', '( )', '( )', '', '', 'esperanto']}
+  - Supported by
+  - AWS Cloud computing and Security Sponsor
+  - Datadog Monitoring
+  - Fastly CDN
+  - Google Download Analytics
+  - Microsoft PSF Sponsor
+  - Pingdom Monitoring
+  - Sentry Error logging
+  - StatusPage Status page
+H3: Navigation
+  - {'list': ['Project description', 'Release history', 'Download files']}
+H3: Verified details
+  - These details have been verified by PyPI
+  - These details have been verified by PyPI
+H3: Unverified details
+  - These details have
+  - not
+  - been verified by PyPI
+  - These details have
+  - not
+  - been verified by PyPI
+H3: Python API Usage
+  - Render markdown to HTML with markdown-it-py and a custom configuration with and without plugins and features:
+H3: Command-line Usage
+  - Render markdown to HTML with markdown-it-py from the command-line:
+H3: Source Distribution
+  - markdown-it-py-3.0.0.tar.gz
+  - (74.6 kB
+  - view hashes
+  - )
+  - Uploaded Jun 3, 2023 Source
+H3: Built Distribution
+  - markdown_it_py-3.0.0-py3-none-any.whl
+  - (87.5 kB
+  - view hashes
+  - )
+  - Uploaded Jun 3, 2023 Python 3
+  - Close
+H3: Hashes for markdown-it-py-3.0.0.tar.gz
+  - {'tables': [{}, {}, {}]}
+  - Close
+  - Close
+H3: Hashes for markdown_it_py-3.0.0-py3-none-any.whl
+  - {'tables': [{}, {}, {}]}
+  - Close
+H6: Maintainers
+  - cjsewell
+  - ebp-bot
+  - cjsewell
+  - ebp-bot
+H6: Project links
+  - {'list': ['Documentation', 'Homepage']}
+  - {'list': ['Documentation', 'Homepage']}
+H6: GitHub Statistics
+  - View statistics for this project via Libraries.io, or by using our public dataset on Google BigQuery
+  - View statistics for this project via Libraries.io, or by using our public dataset on Google BigQuery
+H6: Meta
+  - License: MIT License
+  - Author: Chris Sewell
+  - Tags markdown, lexer, parser, commonmark, markdown-it
+  - Requires: Python >=3.8
+  - License: MIT License
+  - Author: Chris Sewell
+  - Tags markdown, lexer, parser, commonmark, markdown-it
+  - Requires: Python >=3.8
+H6: Classifiers
+  - {'list': ['Development Status 5 - Production/Stable', '5 - Production/Stable', 'Intended Audience Developers', 'Developers', 'License OSI Approved :: MIT License', 'OSI Approved :: MIT License', 'Programming Language Python :: 3 Python :: 3.8 Python :: 3.9 Python :: 3.10 Python :: 3.11 Python :: Implementation :: CPython Python :: Implementation :: PyPy', 'Python :: 3', 'Python :: 3.8', 'Python :: 3.9', 'Python :: 3.10', 'Python :: 3.11', 'Python :: Implementation :: CPython', 'Python :: Implementation :: PyPy', 'Topic Software Development :: Libraries :: Python Modules Text Processing :: Markup', 'Software Development :: Libraries :: Python Modules', 'Text Processing :: Markup']}
+  - {'list': ['Project description', 'Project details', 'Release history', 'Download files']}
+  - {'list': ['Development Status 5 - Production/Stable', '5 - Production/Stable', 'Intended Audience Developers', 'Developers', 'License OSI Approved :: MIT License', 'OSI Approved :: MIT License', 'Programming Language Python :: 3 Python :: 3.8 Python :: 3.9 Python :: 3.10 Python :: 3.11 Python :: Implementation :: CPython Python :: Implementation :: PyPy', 'Python :: 3', 'Python :: 3.8', 'Python :: 3.9', 'Python :: 3.10', 'Python :: 3.11', 'Python :: Implementation :: CPython', 'Python :: Implementation :: PyPy', 'Topic Software Development :: Libraries :: Python Modules Text Processing :: Markup', 'Software Development :: Libraries :: Python Modules', 'Text Processing :: Markup']}
+H2: Release history Release notifications | RSS feed
+  - This version
+  - 3.0.0 Jun 3, 2023
+  - 2.2.0 Feb 22, 2023
+  - 2.1.0 Apr 16, 2022
+  - 2.0.1 Jan 24, 2022
+  - 2.0.0 Dec 3, 2021
+  - 1.1.0 May 8, 2021
+  - 1.0.0 May 2, 2021
+  - 1.0.0b3 pre-release May 1, 2021
+  - 1.0.0b2 pre-release Apr 25, 2021
+  - 1.0.0b1 pre-release Mar 31, 2021
+  - 0.6.2 Feb 6, 2021
+  - 0.6.1 Jan 1, 2021
+  - 0.6.0 Dec 15, 2020
+  - 0.5.8 Dec 13, 2020
+  - 0.5.7 Dec 13, 2020
+  - 0.5.6 Oct 21, 2020
+  - 0.5.5 Sep 27, 2020
+  - 0.5.4 Sep 8, 2020
+  - 0.5.3 Sep 4, 2020
+  - 0.5.2 Aug 22, 2020
+  - 0.5.1 Aug 21, 2020
+  - 0.5.0 Aug 18, 2020
+  - 0.4.9 Aug 11, 2020
+  - 0.4.8 Jul 13, 2020
+  - 0.4.7 Jun 22, 2020
+  - 0.4.6 May 28, 2020
+  - 0.4.5 Apr 1, 2020
+  - 0.4.4 Mar 30, 2020
+  - 0.4.3 Mar 29, 2020
+  - 0.4.2 Mar 29, 2020
+  - 0.4.1 Mar 28, 2020
+  - 0.4.0 Mar 28, 2020
+  - 0.3.3 Mar 28, 2020
+  - 0.3.2 Mar 27, 2020
+  - 0.3.1 Mar 27, 2020
+  - 0.3.0 Mar 27, 2020
+  - 0.2.3 Mar 27, 2020
+  - 0.2.2 Mar 26, 2020
+  - 0.2.1 Mar 26, 2020
+  - 0.2.0 Mar 26, 2020
+  - 0.1.1 Mar 25, 2020
+  - 0.1.0 Mar 25, 2020
+unassociated
+  - Skip to main content
+  - Warning
+  - Some features may not work without JavaScript. Please try enabling it if you encounter problems.
+  - Search PyPI
+  - Search
+  - {'list': ['Help', 'Sponsors', 'Log in', 'Register']}
+  - Search PyPI
+  - Search
