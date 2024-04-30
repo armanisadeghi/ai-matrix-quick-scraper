@@ -1,3 +1,7 @@
+D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_dermstore_com_skinceuticals_c_e_ferulic_with_15_l_ascorbic_acid_vitamin_c_serum_30ml_11289609_html_240430_1107.txt
+D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_dermstore_com_skinceuticals_c_e_ferulic_with_15_l_ascorbic_acid_vitamin_c_serum_30ml_11289609_html_240418_0613.txt
+D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_skinceuticals_com_skincare_vitamin_c_serums_c_e_ferulic_with_15_l_ascorbic_acid_S17_html_240418_0613.txt
+D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_theskinspot_com_products_skinceuticals_c_e_ferulic_240418_0603.txt
 D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_healthline_com_health_crohns_disease_240417_1358.txt
 D:\a_starter\projects\ai-matrix-quick-scraper\temp\scrapes\soup\soup_healthline_com_health_crohns_disease_240417_1354.txt
 E:\Git\scraper\temp\scrapes\soup\soup_pypi_org_project_markdown_it_py__240418_0253.txt

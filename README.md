@@ -1,3 +1,11 @@
+## Quick Start
+- Clone the repo
+- Install the requirements (For my projects, poetry is best, since I use it, but you can use whatever you prefer)
+- If you want to quickly test it, go to the main.py and you can run a scrap and run the parser.
+- You can also go directly to each one: quick_scraper.py and parse_sample.py
+- Each time you scrape, the soup and a history is saved so you can parse the same sites repeatedly, without having to scrape them.
+- The soup is saved exactly as it comes in so it's like a fresh scrape each time.
+
 
 ## Project Summary
 

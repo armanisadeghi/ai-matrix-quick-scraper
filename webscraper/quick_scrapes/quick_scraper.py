@@ -10,7 +10,7 @@ import datetime
 from common.utils.my_utils import pretty_print_data
 from pathlib import Path
 from dotenv import load_dotenv
-from parse_sample import ContentExtractor
+from webscraper.quick_scrapes.parse_sample import ContentExtractor
 from common.utils.my_utils import print_file_link
 
 load_dotenv()
@@ -579,7 +579,7 @@ async def main(url, options, task='scrape', text_file=None):
 
 
 if __name__ == "__main__":
-    url = "https://www.healthline.com/health/crohns-disease"
+    url = "https://www.dermstore.com/skinceuticals-c-e-ferulic-with-15-l-ascorbic-acid-vitamin-c-serum-30ml/11289609.html"
     options = ['get_image_links', 'get_main_headers', 'extract_content_by_headers', 'get_tables', 'get_filtered_images']
 
     #cleaned_content = asyncio.run(simple_scrape_single_page(url))
